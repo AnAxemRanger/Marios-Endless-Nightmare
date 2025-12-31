@@ -1,0 +1,153 @@
+In the Pit of 100 Nightmares game mode, each floor has two statues.
+The left statue lets you sacrifice 9 frog coins in exchange for a
+reward.  The right statue lets you sacrifice an amount of regular
+coins for a reward, where the price depends on the type of reward
+offered and how deep in the Pit you are.  The prize pools for the
+various randomized rewards are outlined here.
+
+***************
+Frog Coin Rares
+***************
+		Odds
+Coin Trick	10%
+Exp Booster	10%
+Jump Shoes	10%
+Rock Candy	10%
+Safety Ring	10%
+Scrooge Ring	10%
+Red Essence	10%
+Yoshi Ade	10%
+Safe Armor	10%
+Safety Badge	10%
+
+
+********************
+Regular Coin Rewards
+********************
+Floors 1-20:
+60% chance of getting the random item option
+40% chance of getting the random equipment option
+
+Floors 21-99
+50% chance of getting the random item option
+40% chance of getting the random equipment option
+10% chance of getting the flower tab/jar/box option
+
+************
+Flower Items
+************
+Floors 21-30: Flower Tab
+Floors 31-60: Flower Jar
+Floors 61-99: Flower Box
+
+*********
+Equipment
+*********
+	Equipment	Odds	
+Floors 1-30			
+	Basic Armor	25%	
+*	Hammer		10%	
+*	FroggieStick	10%	
+*	Finger Shot	10%	
+*	Chomp		10%	
+*	Slap Glove	10%	
+	Antidote Pin	5%	replaces hammer
+	Wake Up Pin	5%	replaces froggiestick
+	Trueform Pin	5%	replaces finger shot
+	Fearless Pin	5%	replaces chomp
+	Zoom Shoes	5%	replaces slap glove	
+*only obtainable once		
+			
+Floors 31-60			
+	SUper Armor	25%	
+*	Troopa Shell	10%	
+*	Cymbals		10%	
+*	Hand Gun	10%	
+*	Hurly Gloves	10%	
+*	Parasol		10%	
+	Antidote Pin	5%	replaces Troopa Shell
+	Wake Up Pin	5%	replaces Cymbals
+	Trueform Pin	5%	replaces Hand Gun
+	Fearless Pin	5%	replaces Hurly Gloves
+	Zoom Shoes	5%	replaces Parasol
+*only obtainable once
+	
+Floors 61-80			
+	Ultra Armor	25%	
+*	Mega Glove	10%	
+*	Sticky Glove	10%	
+*	Hand Cannon	10%	
+*	Spiked Link	10%	
+*	War Fan		10%	
+	Amulet		5%	replaces Mega Glove
+	Feather		5%	replaces Sticky Glove
+	Chest Plate	5%	replaces Hand Cannon
+	Mage Robe	5%	replaces Spiked Link
+	Ankle Weight	5%	replaces War Fan
+*only obtainable once
+			
+Floors 81-100			
+	Ultra Armor	25%	
+*	Mega Glove	10%	
+*	Sticky Glove	10%	
+*	Hand Cannon	10%	
+*	Spiked Link	10%	
+*	War Fan		10%	
+	Attack Scarf	5%	replaces Mega Glove
+	Safety Badge	5%	replaces Sticky Glove
+	Ghost Medal	5%	replaces Hand Cannon
+	Troopa Pin	5%	replaces Spiked Link
+	Cursed Ring	5%	replaces War Fan
+*only obtainable once
+	
+
+*****
+Items
+*****
+	Item		Odds
+Floors 1-30		
+	Mushroom	20%
+	Honey Syrup	20%
+	Pick Me Up	20%
+	Able Juice	20%
+	FroggieDrink	10%
+	Bracer		5%
+	Energizer	5%
+		
+Floors 31-60		
+	Mid Mushroom	20%
+	Maple Syrup	20%
+	Pick Me Up	15%
+	Able Juice	10%
+	Freshen Up	5%
+	Elixir		5%
+	Bracer		5%
+	Energizer	5%
+	Sleepy Bomb	5%
+	Bad Mushroom	5%
+	Fright Bomb	5%
+		
+Floors 61-80		
+	Max Mushroom	20%
+	Royal Syrup	15%
+	Pick Me Up	15%
+	Freshen Up	10%
+	Megalixir	10%
+	Crystalline	5%
+	Power Blast	5%
+	Yoshi-Ade	5%
+	Sleepy Bomb	5%
+	Bad Mushroom	5%
+	Fright Bomb	5%
+		
+Floors 81-100		
+	Royal Syrup	10%
+	Pick Me Up	10%
+	Freshen Up	10%
+	Kerokerocola	10%
+	Crystalline	10%
+	Power Blast	10%
+	Yoshi-Ade	10%
+	Red Essence	10%
+	Fire Bomb	10%
+	Ice Bomb	10%
