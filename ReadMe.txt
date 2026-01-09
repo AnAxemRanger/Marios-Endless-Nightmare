@@ -59,6 +59,7 @@ Pit of 100 Trials and Pit of 100 Nightmares.
 	-Forest Maze
 	-And My Name's Booster (Booster Tower song after meeting him)
 	-Barrel Volcano
+	-Bowser's Keep (2nd Visit)
 
 
 
@@ -162,4 +163,5 @@ Check out Youtube for romhack videos, fun SMRPG facts, challenge
 playthroughs of various games, and more!
 
 Romhacking Development Blog: https://ko-fi.com/anaxemranger
+
 
