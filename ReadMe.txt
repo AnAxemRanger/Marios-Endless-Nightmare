@@ -1,7 +1,7 @@
 ********************************************
 Super Mario RPG - Mario's Endless Nightmare
 -A Super Mario RPG Romhack/mod-
-Version 1.1
+Version 1.2
 Created by: AnAxemRanger
 ********************************************
 
@@ -61,6 +61,28 @@ Pit of 100 Trials and Pit of 100 Nightmares.
 	-Barrel Volcano
 	-Bowser's Keep (2nd Visit)
 
+V 1.2
+-The Boss Rush is now an alternative means of beating the game.
+-Added a new custom boss as the final boss of the boss rush.
+-(FOR REAL THIS TIME) Fixed issue where Mario would get stuck trying
+to go through the final whirlpool at the end of the game.
+-Fixed enemy formation with five L'il Boos.  One would appear but you
+would only see the shadows from the other four.  All five are visible
+and functioning now.
+-Added save points to every 10 floors of the Pit of 100 Nightmares.
+-Adjusted the stats and abilities of the final boss trio of sorcerers
+-Selling prices of Flower Jars and Boxes have been adjusted.
+-fixed error in Area 7 lobby where you could jump over the barrier to
+the third battle room with precision jumping.
+-Area 6, battle room 1 no longer has weird graphical glitches.
+-Floor 71 of the Pit of 100 Trials now has the correct battle.
+-Can no longer skip certain fights in the Pit of 100 Trials using
+precision movement.
+-The player will no longer receive copies of weapons they've already
+received as random prizes in the Pit of 100 Nightmares (with the
+exception of the chests on certain floors that always contain certain
+weapons for everyone, whether you already have one of them or not).
+-Various other fixes not worth mentioning separately.
 
 
 *********
